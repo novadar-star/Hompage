@@ -1,0 +1,30 @@
+HTML TAGS
+<div>
+<h1>
+<header>
+<img>
+<li>
+<nav>
+<p>
+<style>
+<span>
+<a>
+<button>
+
+
+----------------------
+CSS PROPERTIES
+align-items
+display
+padding-top
+width
+font-size
+
+
+
+
+-----------------------
+USAGE OF JS AND BOOTSTRAP
+I used javascript o greet the user by using the alert function whereas
+the button About Me once clicked will show a string of paragraphs and
+for Bootsrap, i used it in designing the navbar and using it to have containers for text in the achievement section

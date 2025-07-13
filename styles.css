@@ -1,0 +1,115 @@
+.a
+{
+    padding-left:20px;
+}
+body
+{
+    background-image: url("aero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+.button {
+    padding-top: 50px;
+      margin-left:280px;
+}
+h1
+{
+   text-align: center;
+   color: #363636;
+}
+
+h2
+{
+    text-align:center;
+}
+h3
+{
+    padding-top: 5%;
+    text-align: center;
+}
+h5, p
+{
+    color: #585858;
+}
+
+img {
+background-color: transparent;
+
+}
+
+
+
+#index-profile
+{
+  border-radius: 55%;
+  width: 40%;
+  height:auto;
+  padding-top: 30px;
+  padding-left:10px;
+  float: left;
+}
+#my-image1:hover
+{
+    transform: scale(1.2);
+    transition: 1.1s;
+}
+
+#my-image2:hover
+{
+    transform: scale(1.2);
+    transition: 1.1s;
+}
+
+#my-image3:hover
+{
+    transform: scale(1.2);
+    transition: 1.1s;
+}
+.container{
+    width: 40%;
+    height: auto;
+    background-color: #F8F9FA;
+    border:1px solid blue;
+    padding-bottom:1%;
+   align-items: center;
+   border-radius:15px;
+}
+
+
+
+.card{
+    padding:10px;
+    border: 1px solid #ADD8E6;
+    border-radius:2px;
+    text-align: center;
+
+}
+
+p {
+    font-size: 15px;
+}
+
+
+.grid-container{
+display: grid;
+grid-template-rows:160px 160px 160px 160px;
+
+}
+
+.box, #my-image1, #my-image2, #my-image3{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    width: 100%;
+
+}
+
+#subheading
+{
+    text-align: center;
+}
+
